@@ -182,7 +182,7 @@ Lambda-funktionen hämtar enhetens registrerade Discord Webhook från DynamoDB o
 
 ## Framtida utveckling
 
-- Automatisering: Schemalägga uppdateringen av hållplatser i DynamoDB, som idag sker manuellt.
+- Schemalägga uppdateringen av hållplatser i DynamoDB, som idag sker manuellt.
 - Försträcka enhets validering med mer än bara Mac-Adress som validering / registrering
 - Ha en möjlighet att kunna justera Esp32 Wifi ssid - password via Bluetooth eller Wifi AP
 - Mer utvecklat Web ui, där man kan se avvikelserna från s3 bucket
