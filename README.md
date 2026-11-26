@@ -6,35 +6,38 @@ En IoT-baserad lösning för visning av aktuella avgångstider inom Stockholms k
 ## Projektöversikt
 
 Projektets baktanke och syfte,
-Vi vet alla hur stressigt det kan vara på morgonen. Många är också bekanta med att SL:s avgångar inte alltid är i tid. När man gör sig redo för att bege sig hemifrån finns det inte alltid tid att kontrollera aktuella avgångstider.
+Vi vet alla hur stressigt det kan vara på morgonen och många är också bekanta med att SL:s avgångar inte alltid är i tid. När man gör sig redo för att bege sig hemifrån finns det inte alltid tid att kontrollera aktuella avgångstider.
 Ur detta uppstod idén till projektet – att ha en fysisk display som i princip i realtid uppdaterar och visar information om valda avgångar, utan att användaren aktivt behöver kontrollera sin telefon.
 Den fungerar på så sätt: 
-Web interface registrerar man sig och sin device/display.
-Väljer vilken hållplats, färdmedel, linje, riktning och uppdatering intervall. 
-Då uppdaterar displayen den valda linjen på sin display. Man kan även se avgången på websidan, samt ändra vilken avgång man vill följa.
 
-- **Krav ställning:** Kunna se vald realtids avgång från SL, utan att behöva ta tiden att ta telefonen och söka på vald avgång
+På Web interface registrerar man sin enhet/display.
+
+Väljer vilken hållplats, färdmedel, linje, riktning och uppdatering intervall. 
+
+Då uppdaterar displayen den valda linjen på sin display och man kan även se avgången på websidan, samt ändra vilken avgång man vill följa.
+
+- **Krav ställning:** Kunna se vald realtids avgång från SL, utan att behöva ta tiden att ta telefonen och söka på vald avgång.
 
 
 ## Funktionalitet - Användar guide
 
 Steg 1.0
-Vid första start skapar man ett konto / loggar in:
+Skapa ett konto / loggar in:
 
 <img width="500" alt="Skärmbild 2026-11-26 163433" src="https://github.com/user-attachments/assets/420e179a-78a9-4765-80ee-13a5a625fb7f" />
 
 Steg 1.1
-Vid Första start på enheten visas enhetens mac adress :
+Första gången du startar enheten visas enhetens mac adress :
 
 <img width="500" alt="f19a131f-0750-4d95-b68f-b97aace1b20a" src="https://github.com/user-attachments/assets/f66ff8df-9ba0-48de-8ad5-73b91cb05e99" />
 
 Steg 2.0
-Andra steget är att registerna sin enhet ange mac adressen och ge den en namn, och en länk till discord (Om man vill få meddelande om enheten kopplas ifrån)  :
+Registerna din enhet genom att ange mac adressen och ge den ett namn, och en länk till discord (Om man vill få meddelande om enheten kopplas ifrån)  :
 
 <img width="500" alt="Skärmbild 2026-11-26 163751" src="https://github.com/user-attachments/assets/2df2bf2e-2260-4e1c-842f-aba05d19e58f" />
 
 Steg 2.1
-Då ansluter enheten till moln tjänst(erna), och ber dig ange vilken hållplats, färdmedel, linje, riktning och uppdatering intervall du vill ha:
+Då ansluter enheten till molntjänst(erna), och ber dig ange vilken hållplats, färdmedel, linje, riktning och vliken uppdateringsintervall du vill ha:
 
 <img width="500" alt="8b431e1d-dc6b-4276-8b9f-a34998e6be62" src="https://github.com/user-attachments/assets/b514a7ca-a71d-453a-abb2-31b2cd63c2a8" />
 
@@ -49,8 +52,8 @@ Då sparas den valda avgången på enheten och den uppdaterar efter din valda in
 <img width="500" alt="8e8ec9e5-ca45-4711-bba4-21ad75105eef" src="https://github.com/user-attachments/assets/f9b4214e-d7bb-47d0-902a-5fa2880a203a" />
 
 Felsökning och återställning :
-Skulle enheten av nån anledning strula och eller inte kunna ansluta ska du ta "Ta bort vald enhet" - Ok 
-Samt trycka på "Boot" kanppen
+Skulle enheten av nån anledning strula och eller inte kunna ansluta ska du välja "Ta bort vald enhet" -> Ok.   
+Samt trycka på "Boot" knappen på enehten
 
 <img width="500" alt="Skärmbild 2026-11-26 171116" src="https://github.com/user-attachments/assets/bbc1abdb-4742-421c-b630-94a59b59051a" />
 
