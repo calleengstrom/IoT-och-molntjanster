@@ -186,4 +186,4 @@ Lambda-funktionen hämtar enhetens registrerade Discord Webhook från DynamoDB o
 - Försträcka enhets validering med mer än bara Mac-Adress som validering / registrering
 - Ha en möjlighet att kunna justera Esp32 Wifi ssid - password via Bluetooth eller Wifi AP
 - Mer utvecklat Web ui, där man kan se avvikelserna från s3 bucket
-
+- Kunna sätta enheten i sleep mode och bara köra / visa avgångar på bestämd tids intervall tex bara mellan 07.00 - 08.00
