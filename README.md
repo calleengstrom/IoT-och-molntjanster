@@ -32,7 +32,7 @@ Första gången du startar enheten visas enhetens mac adress :
 <img width="500" alt="f19a131f-0750-4d95-b68f-b97aace1b20a" src="https://github.com/user-attachments/assets/f66ff8df-9ba0-48de-8ad5-73b91cb05e99" />
 
 Steg 2.0
-Registerna din enhet genom att ange mac adressen och ge den ett namn, och en länk till discord (Om man vill få meddelande om enheten kopplas ifrån)  :
+Registerna din enhet genom att ange mac adressen och ge den ett namn, och en länk till discord-webhook (Om man vill få meddelande om enheten kopplas ifrån)  :
 
 <img width="500" alt="Skärmbild 2026-11-26 163751" src="https://github.com/user-attachments/assets/2df2bf2e-2260-4e1c-842f-aba05d19e58f" />
 
