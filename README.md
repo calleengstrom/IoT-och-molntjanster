@@ -50,6 +50,7 @@ Steg 3.1
 Då sparas den valda avgången på enheten och den uppdaterar efter din valda intervall:
 
 <img width="500" alt="8e8ec9e5-ca45-4711-bba4-21ad75105eef" src="https://github.com/user-attachments/assets/f9b4214e-d7bb-47d0-902a-5fa2880a203a" />
+<img width="500" alt="Skärmbild 2026-11-27 100414" src="https://github.com/user-attachments/assets/92b353ff-fea0-4106-9db9-d2ffd05cc236" />
 
 Felsökning och återställning :
 Skulle enheten av nån anledning strula och eller inte kunna ansluta ska du välja "Ta bort vald enhet" -> Ok.   
@@ -58,6 +59,10 @@ Samt trycka på "Boot" knappen på enehten
 <img width="500" alt="Skärmbild 2026-11-26 171116" src="https://github.com/user-attachments/assets/bbc1abdb-4742-421c-b630-94a59b59051a" />
 
 <img width="500" alt="ea90337b-930b-4b73-8313-9048ed69979a" src="https://github.com/user-attachments/assets/6f21af78-f010-49a7-a0b0-93f0e671ab7f" />
+
+Du får även då meddelandet på discord att din enhet har kopplats ifrån
+
+<img width="500" alt="Skärmbild 2026-11-27 100442" src="https://github.com/user-attachments/assets/711d95d0-8a2c-40ca-af48-d63df71f7000" />
 
 
 
